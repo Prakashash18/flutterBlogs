@@ -1,6 +1,6 @@
 # flutter_containers
 
-A new Flutter project.
+Clone this repo to follow along the tutorial at 
 
 ## Getting Started
 
