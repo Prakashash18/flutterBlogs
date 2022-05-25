@@ -1,4 +1,4 @@
-# flutter_containers
+# Flutter Containers
 
 Clone this repo to follow along the tutorial at 
 
