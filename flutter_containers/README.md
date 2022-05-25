@@ -1,6 +1,6 @@
 # Flutter Containers
 
-Clone this repo to follow along the tutorial at 
+Clone this repo to follow along the tutorial at https://prakashash.io/flutter-containers/
 
 ## Getting Started
 
